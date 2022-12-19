@@ -1,4 +1,4 @@
-## Bem vindo ! Sou estudante de Análise e Desenvolvimento de Sistemas com ênfase em Front-End.
+## Hello, my name is Italo Vizaco, I'm 33 years old and I'm a Systems Analysis and Development student. Working as a front end developer at Oi S.A.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italovizaco&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
