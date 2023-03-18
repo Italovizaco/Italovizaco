@@ -1,4 +1,4 @@
-## Hello, my name is Italo Vizaco, I'm 33 years old and I'm a Systems Analysis and Development student. Working as a front end developer at Oi S.A.
+## Hello, my name is Italo Vizaco, I'm 34 years old and I'm a Systems Analysis and Development student. Working as a front end developer at Oi S.A.
 
 <div style="display: inline_block"><br>
   
